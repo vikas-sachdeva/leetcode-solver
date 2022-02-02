@@ -1,9 +1,7 @@
-package solution;
+package solver;
 
 import org.assertj.core.api.AssertionsForInterfaceTypes;
 import org.junit.jupiter.api.Test;
-import solver.Solution1;
-import solver.Solution2;
 
 public class SolutionTest {
 

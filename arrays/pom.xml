@@ -13,6 +13,18 @@
         <module>arrays-max-consecutive-ones</module>
         <module>arrays-find-numbers-with-even-number-of-digits</module>
         <module>arrays-squares-of-a-sorted-array</module>
+        <module>arrays-duplicate-zeros</module>
+        <module>arrays-merge-sorted-array</module>
+        <module>arrays-remove-element</module>
+        <module>arrays-remove-duplicates-sorted-array</module>
+        <module>arrays-check-n-and-its-double-exist</module>
+        <module>arrays-valid-mountain-array</module>
+        <module>arrays-replace-elements-greatest-element-right-side</module>
+        <module>arrays-move-zeroes</module>
+        <module>arrays-sort-array-by-parity</module>
+        <module>arrays-height-checker</module>
+        <module>arrays-third-maximum-number</module>
+        <module>arrays-find-all-numbers-disappeared-in-array</module>
     </modules>
 
     <artifactId>arrays</artifactId>

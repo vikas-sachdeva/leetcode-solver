@@ -9,6 +9,7 @@
     <version>1.0</version>
     <modules>
         <module>arrays</module>
+        <module>linked-list</module>
     </modules>
     <packaging>pom</packaging>
 
